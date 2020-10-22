@@ -4,3 +4,4 @@
 ## Technologies Used
 - Angular JS
 - Bulma CSS
+- Now.sh
